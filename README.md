@@ -4,10 +4,6 @@
  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/75cda7542df94f9e8534d82f9e31cae3_3-1flDTgHIuogz0ioIUPjC3BE9xbsIdP.png" alt="NanMeng API Key Manager Logo" width="120" />
 </p>
 
-<p align="center">
- <a href="README.md">English</a> | 
- <a href="README_CN.md">简体中文</a>
-</p>
 
 A secure and efficient API key management system that helps developers and teams easily manage API keys for various AI models.
 
